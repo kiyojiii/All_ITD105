@@ -1,0 +1,3 @@
+[submodule "EDA"]
+	path = EDA
+	url = https://github.com/kiyojiii/ITD105
